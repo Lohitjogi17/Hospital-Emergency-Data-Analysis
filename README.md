@@ -34,6 +34,10 @@ Feature Engineering: Created new metrics such as Profit_Margin_Percentage and Sh
 
 Visualization: Developed an interactive dashboard using [Power BI/Tableau/Matplotlib] to visualize sales heatmaps and trend lines.
 
+Dashboard Image:
+<img width="1052" height="445" alt="Hospital Emergency Dashboard" src="https://github.com/user-attachments/assets/9235490a-832a-487a-a1d3-4b73afd29de6" />
+
+
 Project Insights
 Seasonal Spikes: Sales consistently peak in Q4 (November-December), driven largely by the "Technology" category, which sees a 35% increase compared to the yearly average.
 
